@@ -1,0 +1,25 @@
+E-mail :
+Password :
+retype password :
+
+login <- button (shown in login mode hidden in registration mode)
+register <- button (shown in registration mode and hidden in login mode)
+
+New user <- hyperlink ( toogle the login button show hide) 
+
+
+
+
+
+session context should have the e-mail address
+
+Search - Topic
+
+Years
+	Month 1
+		Today
+		Date 1
+	Month 2
+		Date1
+Date1 
+Date2

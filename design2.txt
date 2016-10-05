@@ -1,0 +1,43 @@
+
+ > User create profile / registration
+	- e-mail / password
+	{ "User1" :{
+		"Name" : "Dummy1",
+		"E-mail" : "dummy1@dummy.com" ,
+		"Password" : "dummy123"
+             },
+	   "User2" :{
+		"Name" : "Dummy2",
+		"E-mail" : "dummy2@dummy.com" ,
+		"Password" : "dummy123"
+             },
+	    "User3" :{
+		"Name" : "Dummy3",
+		"E-mail" : "dummy3@dummy.com" ,
+		"Password" : "dummy123"
+             },
+        }
+ > User runtime
+        > maintain data ( CRUD)
+
+	 { "dummy1@dummy.com" :[{
+                                "contentId" : 1 ,
+                                "date"     : "10/04/2016 10:04PM",
+                  		"content " : "my fist post"
+                               },
+                               {
+                                "contentId" : 2 ,
+                                "date"     : "10/04/2016 11:04PM",
+                  		"content " : "my second post"
+                               }]
+         }
+
+
+
+
+
+Details on the design
+
+	> login.html
+		(hyperlink ) new user - > 
+        
